@@ -273,9 +273,9 @@ def valorvenda(npeixe):#funcao que expressa o valor de cada peixe presente no ga
   elif(npeixe=="Corvina"): vdinheiro=40
   elif(npeixe=="Traira"): vdinheiro=50
   elif(npeixe=="Tubarão"): vdinheiro=100
-  elif(npeixe=="Carpa Ying"): vdinheiro=200#falta implementar
-  elif(npeixe=="Carpa Yang"): vdinheiro=200#falta implementar
-  elif(npeixe=="Kralamor"): vdinheiro=300#falta implementar, FishTafary
+  elif(npeixe=="Carpa Ying"): vdinheiro=200
+  elif(npeixe=="Carpa Yang"): vdinheiro=200
+  elif(npeixe=="Kralamor"): vdinheiro=300
   else: vdinheiro=0
   return vdinheiro #a funcao recebe string nome peixe, me devolve vdinheiro=preço do peixe
 
