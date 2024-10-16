@@ -22,3 +22,17 @@ Para rodar o projeto, siga os passos abaixo:
 4. Copie o código do FishVillage e cole no campo de código do Google Colab.
 5. Clique no botão com simbolo de "Play" ao lado esquerdo do código (ou aperte: tecla "Shift + Enter").
 6. Divirta-se!
+
+## Como Jogar
+- Use o campo de input para inserir o número referente ao local que deseja seguir ou ação que deseja tomar.
+- Interaja com NPCs para receber dicas, missões ou apenas bater um papo.
+- Pesque para aumentar seu nível.
+- Venda seus pescados na loja para receber dinheiro.
+- Compre equipamentos para melhorar as chances de sucesso na pescaria.
+
+## Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+Contato
+Para mais informações, entre em contato:
+rafael.sepulcri@gmail.com
