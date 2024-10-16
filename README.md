@@ -12,7 +12,6 @@ FishVillage é um jogo de pescaria com elementos de RPG, em formato texto, onde 
 
 ## Tecnologias Utilizadas
 - **Linguagem**: Python
-- **Bibliotecas**: [incluir bibliotecas utilizadas, se houver]
 - **Ambiente**: Google Colab
 
 ## Instalação
