@@ -33,6 +33,6 @@ Para rodar o projeto, siga os passos abaixo:
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-Contato
+## Contato
 Para mais informações, entre em contato:
 rafael.sepulcri@gmail.com
